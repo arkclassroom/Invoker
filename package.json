@@ -1,0 +1,19 @@
+{
+  "name": "invoker",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/arkclassroom/Invoker.git"
+  },
+  "author": "Tatas Fachrul",
+  "license": "Beerware",
+  "bugs": {
+    "url": "https://github.com/arkclassroom/Invoker/issues"
+  },
+  "homepage": "https://github.com/arkclassroom/Invoker#readme"
+}
